@@ -7,6 +7,7 @@
 
 using namespace std;
 
+// comment TestSimpleWay
 void TestSimpleWay()
 {
 
