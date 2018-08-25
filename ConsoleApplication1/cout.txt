@@ -1,2 +1,0 @@
-This line written to file
-Should be deleted
