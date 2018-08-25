@@ -147,6 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <Text Include="cout.txt" />
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
