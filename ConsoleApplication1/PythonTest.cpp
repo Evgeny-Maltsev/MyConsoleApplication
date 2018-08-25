@@ -7,6 +7,12 @@
 
 using namespace std;
 
+void TestSimpleWay()
+{
+
+}
+
+
 void SimpleWay(int argc, char *argv[], char * envp[])
 {
 
