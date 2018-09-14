@@ -7,7 +7,7 @@
 #include <string>
 #include <sstream>
 #include <iostream>     // std::cout
-//#include <algorithm>    // std::remove used
+#include <algorithm>    // std::remove used
 #include <assert.h> 
 #include <stdarg.h>
 #include <fstream>
